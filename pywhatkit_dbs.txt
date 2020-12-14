@@ -1,0 +1,26 @@
+--------------------
+Date: 4:12:2020
+Time: 11:55
+Phone number: +5512981440013
+Message: test do segundo exemplo de bot
+--------------------
+Date: 4:12:2020
+Time: 12:6
+Phone number: +5511943820940
+Message: test do segundo exemplo de bot
+--------------------
+Date: 4:12:2020
+Time: 12:11
+Phone number: +5511943820940
+Message: test do segundo exemplo de bot
+--------------------
+Date: 4:12:2020
+Time: 12:16
+Phone number: +5511943820940
+Message: test do segundo exemplo de bot
+--------------------
+Date: 4:12:2020
+Time: 16:6
+Phone number: +5512996051049
+Message: test do segundo exemplo de bot
+--------------------
